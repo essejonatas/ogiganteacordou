@@ -1,3 +1,8 @@
+.entry {
+  background-color: #eee;
+  padding:10px;
+  margin: 5px 0px;
+}
 .faixa {
   position: fixed;
   height: 100%;
